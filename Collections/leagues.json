@@ -1,0 +1,3829 @@
+[{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3515"
+  },
+  "name": "Druha Liga - Group A",
+  "country": "Ukraine"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3518"
+  },
+  "name": "Pro League",
+  "country": "United-Arab-Emirates"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3514"
+  },
+  "name": "Pro League",
+  "country": "Trinidad-And-Tobago"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3504"
+  },
+  "name": "Serie A",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3505"
+  },
+  "name": "Premier League",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb350c"
+  },
+  "name": "Championship",
+  "country": "Scotland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb351b"
+  },
+  "name": "Ligue 1",
+  "country": "Tunisia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3542"
+  },
+  "name": "Birinci Dasta",
+  "country": "Azerbaidjan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb354a"
+  },
+  "name": "Professional League",
+  "country": "Oman"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3585"
+  },
+  "name": "1. Liga",
+  "country": "Latvia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35c8"
+  },
+  "name": "Premier League",
+  "country": "Russia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35e3"
+  },
+  "name": "Premier League",
+  "country": "Malaysia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35f2"
+  },
+  "name": "Division 1",
+  "country": "Saudi-Arabia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3619"
+  },
+  "name": "Super Liga",
+  "country": "Slovakia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb361e"
+  },
+  "name": "Primera División",
+  "country": "Bolivia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb363e"
+  },
+  "name": "Provincial - Liege",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb363f"
+  },
+  "name": "Provincial - Limburg",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3661"
+  },
+  "name": "Regionalliga - Bayern",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3663"
+  },
+  "name": "Regionalliga - Nordost",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb366e"
+  },
+  "name": "Serie D - Girone I",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3680"
+  },
+  "name": "Tercera División RFEF - Group 14",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3681"
+  },
+  "name": "Tercera División RFEF - Group 15",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3684"
+  },
+  "name": "Tercera División RFEF - Group 18",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36a0"
+  },
+  "name": "Queensland NPL",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36b2"
+  },
+  "name": "Gamma Ethniki - Group 3",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36bd"
+  },
+  "name": "Cearense - 2",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36c7"
+  },
+  "name": "Paranaense - 1",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36d7"
+  },
+  "name": "Goiano - 1",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36e6"
+  },
+  "name": "Damallsvenskan",
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36f2"
+  },
+  "name": "Premier League",
+  "country": "Mongolia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb371f"
+  },
+  "name": "Second League - Group 2",
+  "country": "Russia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb372b"
+  },
+  "name": "Campeonato de Portugal Prio - Group G",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3731"
+  },
+  "name": "Third Amateur Division - ACFF A",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3739"
+  },
+  "name": "Women's Championship",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3741"
+  },
+  "name": "Liga Femenina",
+  "country": "Colombia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3750"
+  },
+  "name": "Oberliga - Bremen",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb375c"
+  },
+  "name": "Segunda División RFEF - Group 5",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3773"
+  },
+  "name": "MLS Next Pro",
+  "country": "USA"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3779"
+  },
+  "name": "Non League Div One - Southern Central",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3526"
+  },
+  "name": "National 2 - Group D",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb354d"
+  },
+  "name": "1. Division",
+  "country": "Kazakhstan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3553"
+  },
+  "name": "Denmark Series - Group 3",
+  "country": "Denmark"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3582"
+  },
+  "name": "Premier League",
+  "country": "Kazakhstan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3596"
+  },
+  "name": "2nd Division - Group 1",
+  "country": "Denmark"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb359f"
+  },
+  "name": "1st League - FBiH",
+  "country": "Bosnia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35b0"
+  },
+  "name": "Premier Soccer League",
+  "country": "Zimbabwe"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35b2"
+  },
+  "name": "Ligue 1",
+  "country": "Senegal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35c4"
+  },
+  "name": "Super League",
+  "country": "China"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35d7"
+  },
+  "name": "Eredivisie Women",
+  "country": "Netherlands"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35e2"
+  },
+  "name": "Super League",
+  "country": "Malaysia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3600"
+  },
+  "name": "Premiership",
+  "country": "Northern-Ireland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3603"
+  },
+  "name": "Druha Liga - Group B",
+  "country": "Ukraine"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3606"
+  },
+  "name": "Premier League",
+  "country": "Libya"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3608"
+  },
+  "name": "Canadian Soccer League",
+  "country": "Canada"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb361b"
+  },
+  "name": "FNL",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3620"
+  },
+  "name": "Serie C - Girone B",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3624"
+  },
+  "name": "National Soccer League",
+  "country": "Rwanda"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3630"
+  },
+  "name": "National League - Play-offs",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3631"
+  },
+  "name": "Landesliga - Burgenland",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb363a"
+  },
+  "name": "Second Amateur Division - ACFF",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb363b"
+  },
+  "name": "Provincial - Antwerpen",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3642"
+  },
+  "name": "Provincial - Oost-Vlaanderen",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb364b"
+  },
+  "name": "3. liga - CFL A",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3650"
+  },
+  "name": "4. liga - Divizie D",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3652"
+  },
+  "name": "National League - North",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3676"
+  },
+  "name": "Tercera División RFEF - Group 4",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3683"
+  },
+  "name": "Tercera División RFEF - Group 17",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3689"
+  },
+  "name": "National 3 - Group A",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36bb"
+  },
+  "name": "1. Liga Classic - Group 3",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36db"
+  },
+  "name": "Ýokary Liga",
+  "country": "Turkmenistan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36f5"
+  },
+  "name": "3. Division - Girone 2",
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3714"
+  },
+  "name": "GFA League",
+  "country": "Gambia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb371b"
+  },
+  "name": "Tasmania NPL",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb371d"
+  },
+  "name": "Second League - Group 3",
+  "country": "Russia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb371e"
+  },
+  "name": "Second League - Group 1",
+  "country": "Russia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3760"
+  },
+  "name": "Second League - Group C",
+  "country": "Egypt"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb377c"
+  },
+  "name": "Oberliga - Bayern Süd",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb351e"
+  },
+  "name": "2. Lig",
+  "country": "Turkey"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3528"
+  },
+  "name": "Primera Division",
+  "country": "El-Salvador"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3533"
+  },
+  "name": "3. Liga",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3534"
+  },
+  "name": "2nd Division - Group A",
+  "country": "Albania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3538"
+  },
+  "name": "Primera B Metropolitana",
+  "country": "Argentina"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb353b"
+  },
+  "name": "Primera D",
+  "country": "Argentina"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3554"
+  },
+  "name": "Liga Nacional",
+  "country": "Honduras"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb355d"
+  },
+  "name": "Championship",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb356b"
+  },
+  "name": "Thai League 1",
+  "country": "Thailand"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3577"
+  },
+  "name": "First League",
+  "country": "Armenia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3579"
+  },
+  "name": "Northern NSW NPL",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb357c"
+  },
+  "name": "2. Division",
+  "country": "Belarus"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3598"
+  },
+  "name": "Ligi kuu Bara",
+  "country": "Tanzania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35a4"
+  },
+  "name": "Amazonense",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35b6"
+  },
+  "name": "Premier League",
+  "country": "Bahrain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35c9"
+  },
+  "name": "Primera A",
+  "country": "Colombia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35cc"
+  },
+  "name": "Second League",
+  "country": "Bulgaria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35cd"
+  },
+  "name": "League One",
+  "country": "China"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35d9"
+  },
+  "name": "W-League",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ec"
+  },
+  "name": "1st Division",
+  "country": "South-Africa"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35f0"
+  },
+  "name": "K League 2",
+  "country": "South-Korea"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3615"
+  },
+  "name": "Botola 2",
+  "country": "Morocco"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3617"
+  },
+  "name": "I-League",
+  "country": "India"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb361a"
+  },
+  "name": "Czech Liga",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3635"
+  },
+  "name": "Landesliga - Salzburg",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb365f"
+  },
+  "name": "II Liga - East",
+  "country": "Poland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3678"
+  },
+  "name": "Tercera División RFEF - Group 6",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3679"
+  },
+  "name": "Tercera División RFEF - Group 7",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3687"
+  },
+  "name": "Campeonato de Portugal Prio - Group C",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb368e"
+  },
+  "name": "National 3 - Group F",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3690"
+  },
+  "name": "National 3 - Group I",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36a6"
+  },
+  "name": "Victoria NPL",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36af"
+  },
+  "name": "Srpska Liga - West",
+  "country": "Serbia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36bc"
+  },
+  "name": "Baiano - 2",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36c3"
+  },
+  "name": "Baiano - 1",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3702"
+  },
+  "name": "Liga III - Serie 5",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3705"
+  },
+  "name": "Liga III - Serie 8",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3711"
+  },
+  "name": "Ligue 2",
+  "country": "Tunisia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3713"
+  },
+  "name": "Ligue 1",
+  "country": "Congo"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3722"
+  },
+  "name": "1. Liga U19",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3724"
+  },
+  "name": "Úrvalsdeild Women",
+  "country": "Iceland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3736"
+  },
+  "name": "Gamma Ethniki - Group 10",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3751"
+  },
+  "name": "Toppserien",
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb375e"
+  },
+  "name": "Second League - Group A",
+  "country": "Egypt"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb376e"
+  },
+  "name": "National League - National",
+  "country": "New-Zealand"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb377a"
+  },
+  "name": "Catarinense - 2",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3522"
+  },
+  "name": "National 1",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3524"
+  },
+  "name": "National 2 - Group B",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3558"
+  },
+  "name": "NB II",
+  "country": "Hungary"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb355e"
+  },
+  "name": "National League",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3576"
+  },
+  "name": "Girabola",
+  "country": "Angola"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3584"
+  },
+  "name": "Ligue Haïtienne",
+  "country": "Haiti"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3586"
+  },
+  "name": "Virsliga",
+  "country": "Latvia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3599"
+  },
+  "name": "Japan Football League",
+  "country": "Japan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35bc"
+  },
+  "name": "Segunda División",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35c0"
+  },
+  "name": "Segunda Liga",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35de"
+  },
+  "name": "Superettan",
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35df"
+  },
+  "name": "Challenge League",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb360d"
+  },
+  "name": "Liga de Ascenso",
+  "country": "Costa-Rica"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3614"
+  },
+  "name": "3. Division",
+  "country": "Cyprus"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3628"
+  },
+  "name": "Second Amateur Division - VFV A",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb362a"
+  },
+  "name": "Third Amateur Division - VFV A",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb362c"
+  },
+  "name": "Third League - Northeast",
+  "country": "Bulgaria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3658"
+  },
+  "name": "Non League Div One - Southern South",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3662"
+  },
+  "name": "Regionalliga - Nord",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3666"
+  },
+  "name": "Serie D - Girone A",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3667"
+  },
+  "name": "Serie D - Girone B",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3688"
+  },
+  "name": "Campeonato de Portugal Prio - Group D",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb368a"
+  },
+  "name": "National 3 - Group B",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36b0"
+  },
+  "name": "Gamma Ethniki - Group 1",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36c8"
+  },
+  "name": "Roraimense",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36cf"
+  },
+  "name": "Potiguar",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36d4"
+  },
+  "name": "Carioca - 1",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36d6"
+  },
+  "name": "Paraense",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36e4"
+  },
+  "name": "Canadian Premier League",
+  "country": "Canada"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36e7"
+  },
+  "name": "Oberliga - Hessen",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36f6"
+  },
+  "name": "3. Division - Girone 3",
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36f8"
+  },
+  "name": "3. Division - Girone 5",
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36fc"
+  },
+  "name": "III Liga - Group 3",
+  "country": "Poland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3718"
+  },
+  "name": "3. liga - East",
+  "country": "Slovakia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3744"
+  },
+  "name": "U18 Divisie 1",
+  "country": "Netherlands"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3746"
+  },
+  "name": "Football League - Highland League",
+  "country": "Scotland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb374f"
+  },
+  "name": "Oberliga - Niedersachsen",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3761"
+  },
+  "name": "Copa Paulino Alcantara",
+  "country": "Philippines"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3508"
+  },
+  "name": "Eredivisie",
+  "country": "Netherlands"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb350d"
+  },
+  "name": "Ligue 2",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3510"
+  },
+  "name": "Ligue 1",
+  "country": "Algeria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb351a"
+  },
+  "name": "Segunda División",
+  "country": "Uruguay"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb353a"
+  },
+  "name": "Primera C",
+  "country": "Argentina"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb354b"
+  },
+  "name": "Premier League",
+  "country": "Jamaica"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb354f"
+  },
+  "name": "Superliga",
+  "country": "Denmark"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb355b"
+  },
+  "name": "Second Division",
+  "country": "Qatar"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3574"
+  },
+  "name": "Liga Pro",
+  "country": "Ecuador"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3580"
+  },
+  "name": "J2 League",
+  "country": "Japan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3581"
+  },
+  "name": "J3 League",
+  "country": "Japan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3583"
+  },
+  "name": "FKF Premier League",
+  "country": "Kenya"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3593"
+  },
+  "name": "League Two",
+  "country": "Scotland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35b5"
+  },
+  "name": "C-League",
+  "country": "Cambodia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ca"
+  },
+  "name": "Division Profesional - Apertura",
+  "country": "Paraguay"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35dd"
+  },
+  "name": "1. Division",
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35e8"
+  },
+  "name": "Liga II",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35fa"
+  },
+  "name": "Division 2 - Västra Götaland",
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3622"
+  },
+  "name": "2. SNL",
+  "country": "Slovenia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3634"
+  },
+  "name": "Landesliga - Oberosterreich",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb363d"
+  },
+  "name": "Provincial - Hainaut",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3643"
+  },
+  "name": "Provincial - West-Vlaanderen",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb364e"
+  },
+  "name": "4. liga - Divizie B",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb365d"
+  },
+  "name": "Derde Divisie - Saturday",
+  "country": "Netherlands"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb366b"
+  },
+  "name": "Serie D - Girone F",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb366c"
+  },
+  "name": "Serie D - Girone G",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3537"
+  },
+  "name": "2a Divisió",
+  "country": "Andorra"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3559"
+  },
+  "name": "Premier League",
+  "country": "Lebanon"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb368b"
+  },
+  "name": "National 3 - Group C",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3565"
+  },
+  "name": "Premier League",
+  "country": "Uganda"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb356d"
+  },
+  "name": "1. Deild",
+  "country": "Faroe-Islands"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3694"
+  },
+  "name": "National 3 - Group M",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb369a"
+  },
+  "name": "Super League 2",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3589"
+  },
+  "name": "Serie B",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36c5"
+  },
+  "name": "Catarinense - 1",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36cd"
+  },
+  "name": "Paranaense - 2",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3590"
+  },
+  "name": "Acreano",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35cb"
+  },
+  "name": "Challenger Pro League",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36fe"
+  },
+  "name": "Liga III - Serie 1",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb370c"
+  },
+  "name": "2. Liga Interregional - Group 3",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35d2"
+  },
+  "name": "Super League Women",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35e9"
+  },
+  "name": "Super Liga",
+  "country": "Serbia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb371a"
+  },
+  "name": "Lao League",
+  "country": "Laos"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb371c"
+  },
+  "name": "Supreme Division Women",
+  "country": "Russia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35f8"
+  },
+  "name": "Division 2 - Norrland",
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb372a"
+  },
+  "name": "Campeonato de Portugal Prio - Group F",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3730"
+  },
+  "name": "Regionalliga - Salzburg",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35fc"
+  },
+  "name": "U19 Bundesliga",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3618"
+  },
+  "name": "I Liga",
+  "country": "Poland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb373e"
+  },
+  "name": "Campionato Primavera - 2",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb375b"
+  },
+  "name": "Segunda División RFEF - Group 4",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3625"
+  },
+  "name": "Premier League",
+  "country": "Namibia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3644"
+  },
+  "name": "Ligue 1",
+  "country": "Burkina-Faso"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3646"
+  },
+  "name": "Third NL - Istok",
+  "country": "Croatia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb367d"
+  },
+  "name": "Tercera División RFEF - Group 11",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb367e"
+  },
+  "name": "Tercera División RFEF - Group 12",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3686"
+  },
+  "name": "Campeonato de Portugal Prio - Group B",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb369d"
+  },
+  "name": "NISA",
+  "country": "USA"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb369e"
+  },
+  "name": "Liga 2",
+  "country": "Indonesia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36a7"
+  },
+  "name": "Western Australia NPL",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36bf"
+  },
+  "name": "NB III - Keleti",
+  "country": "Hungary"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36cc"
+  },
+  "name": "Capixaba",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36e9"
+  },
+  "name": "Oberliga - Rheinland-Pfalz / Saar",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36f4"
+  },
+  "name": "3. Division - Girone 1",
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36fb"
+  },
+  "name": "III Liga - Group 2",
+  "country": "Poland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3703"
+  },
+  "name": "Liga III - Serie 6",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb370d"
+  },
+  "name": "2. Liga Interregional - Group 4",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3721"
+  },
+  "name": "WK-League",
+  "country": "South-Korea"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb372f"
+  },
+  "name": "Regionalliga - Tirol",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3752"
+  },
+  "name": "Elitettan",
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3757"
+  },
+  "name": "Liga Premier Serie B",
+  "country": "Mexico"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb375d"
+  },
+  "name": "Reserve League",
+  "country": "Netherlands"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3768"
+  },
+  "name": "WE League",
+  "country": "Japan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb377b"
+  },
+  "name": "Oberliga - Bayern Nord",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3509"
+  },
+  "name": "Primeira Liga",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3511"
+  },
+  "name": "Ligue 2",
+  "country": "Algeria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3520"
+  },
+  "name": "3. Lig - Group 2",
+  "country": "Turkey"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3523"
+  },
+  "name": "National 2 - Group A",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb352a"
+  },
+  "name": "Meistriliiga",
+  "country": "Estonia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb353d"
+  },
+  "name": "A-League",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3557"
+  },
+  "name": "NB I",
+  "country": "Hungary"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb355c"
+  },
+  "name": "Stars League",
+  "country": "Qatar"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3578"
+  },
+  "name": "Premier League",
+  "country": "Armenia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3591"
+  },
+  "name": "Liga Profesional Argentina",
+  "country": "Argentina"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35b1"
+  },
+  "name": "Sudani Premier League",
+  "country": "Sudan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35b3"
+  },
+  "name": "Campionato",
+  "country": "San-Marino"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35b7"
+  },
+  "name": "Championnat National",
+  "country": "Benin"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35be"
+  },
+  "name": "Eliteserien",
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35eb"
+  },
+  "name": "Premier Soccer League",
+  "country": "South-Africa"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3607"
+  },
+  "name": "Taiwan Football Premier League",
+  "country": "Chinese-Taipei"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb360a"
+  },
+  "name": "Liga Panameña de Fútbol",
+  "country": "Panama"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb362e"
+  },
+  "name": "Third League - Southeast",
+  "country": "Bulgaria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3648"
+  },
+  "name": "Third NL - Sjever",
+  "country": "Croatia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3653"
+  },
+  "name": "National League - South",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3668"
+  },
+  "name": "Serie D - Girone C",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb366a"
+  },
+  "name": "Serie D - Girone E",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb368c"
+  },
+  "name": "National 3 - Group D",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3698"
+  },
+  "name": "First Amateur Division",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36b6"
+  },
+  "name": "Gamma Ethniki - Group 7",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36c4"
+  },
+  "name": "Paraibano",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ca"
+  },
+  "name": "Cearense - 1",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ec"
+  },
+  "name": "Oberliga - Nordost-Süd",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36fa"
+  },
+  "name": "III Liga - Group 1",
+  "country": "Poland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3738"
+  },
+  "name": "U18 Premier League - South",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb373f"
+  },
+  "name": "Nacional B",
+  "country": "Bolivia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3740"
+  },
+  "name": "Segunda División",
+  "country": "Chile"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3742"
+  },
+  "name": "I-League - 2nd Division",
+  "country": "India"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3745"
+  },
+  "name": "Liga 1 Feminin",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3759"
+  },
+  "name": "Segunda División RFEF - Group 2",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3763"
+  },
+  "name": "South Australia State League 1",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3771"
+  },
+  "name": "Premier League",
+  "country": "Lesotho"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3519"
+  },
+  "name": "Division 1",
+  "country": "United-Arab-Emirates"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb351f"
+  },
+  "name": "3. Lig - Group 1",
+  "country": "Turkey"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3525"
+  },
+  "name": "National 2 - Group C",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb353f"
+  },
+  "name": "Northern Territory Premier League",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3545"
+  },
+  "name": "Regionalliga - Ost",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb354e"
+  },
+  "name": "Premier League",
+  "country": "Kuwait"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb355f"
+  },
+  "name": "League One",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3562"
+  },
+  "name": "Vysshaya Liga",
+  "country": "Tajikistan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3566"
+  },
+  "name": "Première Division",
+  "country": "Mali"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3571"
+  },
+  "name": "Kakkonen - Lohko A",
+  "country": "Finland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3595"
+  },
+  "name": "Premier League",
+  "country": "Ethiopia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3597"
+  },
+  "name": "2nd Division - Group 2",
+  "country": "Denmark"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ad"
+  },
+  "name": "Super Liga",
+  "country": "Moldova"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35c5"
+  },
+  "name": "Botola Pro",
+  "country": "Morocco"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ed"
+  },
+  "name": "Persian Gulf Pro League",
+  "country": "Iran"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3609"
+  },
+  "name": "Liga 1",
+  "country": "Indonesia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb361c"
+  },
+  "name": "First League",
+  "country": "Montenegro"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3647"
+  },
+  "name": "Third NL - Jug",
+  "country": "Croatia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb364f"
+  },
+  "name": "4. liga - Divizie C",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3656"
+  },
+  "name": "Non League Div One - Northern West",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3659"
+  },
+  "name": "Non League Div One - Isthmian South East",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb366d"
+  },
+  "name": "Serie D - Girone H",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3672"
+  },
+  "name": "Primera División RFEF - Group 4",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3696"
+  },
+  "name": "2. Division - Group 2",
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36d2"
+  },
+  "name": "Pernambucano - 1",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36d5"
+  },
+  "name": "Sergipano",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36d8"
+  },
+  "name": "Mineiro - 1",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36df"
+  },
+  "name": "Liga Primera U20",
+  "country": "Nicaragua"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36e3"
+  },
+  "name": "Gaúcho - 2",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ff"
+  },
+  "name": "Liga III - Serie 2",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb370b"
+  },
+  "name": "2. Liga Interregional - Group 2",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3733"
+  },
+  "name": "Provincial - Brabant ACFF",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb373a"
+  },
+  "name": "Liga Revelação U23",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb374a"
+  },
+  "name": "Nationalliga A Women",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb374c"
+  },
+  "name": "Oberliga - Hamburg",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb374e"
+  },
+  "name": "Oberliga - Westfalen",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3758"
+  },
+  "name": "Segunda División RFEF - Group 1",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3769"
+  },
+  "name": "Dhivehi Premier League",
+  "country": "Maldives"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb376f"
+  },
+  "name": "National League - Northern",
+  "country": "New-Zealand"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb377d"
+  },
+  "name": "Reserve League",
+  "country": "Argentina"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3513"
+  },
+  "name": "National League",
+  "country": "Myanmar"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3503"
+  },
+  "name": "Jupiler Pro League",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3507"
+  },
+  "name": "Serie A",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3517"
+  },
+  "name": "Premier League",
+  "country": "Ukraine"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3529"
+  },
+  "name": "Esiliiga A",
+  "country": "Estonia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3530"
+  },
+  "name": "Football League",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3531"
+  },
+  "name": "Super League 1",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3549"
+  },
+  "name": "Segunda División",
+  "country": "Venezuela"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3563"
+  },
+  "name": "Premier League",
+  "country": "Barbados"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3569"
+  },
+  "name": "Primera División - Clausura",
+  "country": "Uruguay"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb358d"
+  },
+  "name": "Feminine Division 1",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb359c"
+  },
+  "name": "Ettan - Södra",
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35b9"
+  },
+  "name": "Super League",
+  "country": "Bhutan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35d0"
+  },
+  "name": "First NL",
+  "country": "Croatia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35e4"
+  },
+  "name": "Premiership",
+  "country": "New-Zealand"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35f3"
+  },
+  "name": "Division 2",
+  "country": "Saudi-Arabia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35fb"
+  },
+  "name": "Division 2 - Östra Götaland",
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb360f"
+  },
+  "name": "Primera División",
+  "country": "Chile"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3613"
+  },
+  "name": "2. Division",
+  "country": "Cyprus"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3616"
+  },
+  "name": "Indian Super League",
+  "country": "India"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3629"
+  },
+  "name": "Second Amateur Division - VFV B",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3632"
+  },
+  "name": "Landesliga - Karnten",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3645"
+  },
+  "name": "Ligue 1",
+  "country": "Congo-DR"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3649"
+  },
+  "name": "Third NL - Sredite",
+  "country": "Croatia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3674"
+  },
+  "name": "Tercera División RFEF - Group 2",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3682"
+  },
+  "name": "Tercera División RFEF - Group 16",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3699"
+  },
+  "name": "USL League One",
+  "country": "USA"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36a1"
+  },
+  "name": "Ligue A",
+  "country": "Burundi"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36b3"
+  },
+  "name": "Gamma Ethniki - Group 4",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36b5"
+  },
+  "name": "Gamma Ethniki - Group 6",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36e8"
+  },
+  "name": "Oberliga - Niederrhein",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36f7"
+  },
+  "name": "3. Division - Girone 4",
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb370f"
+  },
+  "name": "2. Liga Interregional - Group 6",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3712"
+  },
+  "name": "Youth League",
+  "country": "Turkmenistan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3719"
+  },
+  "name": "3. liga - Center",
+  "country": "Slovakia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3727"
+  },
+  "name": "Central Youth League",
+  "country": "Poland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3729"
+  },
+  "name": "Campeonato de Portugal Prio - Group E",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3734"
+  },
+  "name": "Primera División RFEF - Group 5",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb373b"
+  },
+  "name": "Premier League 2 Division One",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3743"
+  },
+  "name": "Liga Premier Serie A",
+  "country": "Mexico"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3749"
+  },
+  "name": "Diski Challenge",
+  "country": "South-Africa"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3767"
+  },
+  "name": "Carioca A2",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb376c"
+  },
+  "name": "1a Divisão - Women",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3512"
+  },
+  "name": "West Bank Premier League",
+  "country": "Palestine"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3516"
+  },
+  "name": "Persha Liga",
+  "country": "Ukraine"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb352c"
+  },
+  "name": "Premier League",
+  "country": "Ghana"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3587"
+  },
+  "name": "1 Lyga",
+  "country": "Lithuania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb358c"
+  },
+  "name": "National Football League",
+  "country": "Fiji"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35a0"
+  },
+  "name": "K3 League",
+  "country": "South-Korea"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35a7"
+  },
+  "name": "First League",
+  "country": "Macedonia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35a8"
+  },
+  "name": "Liga Leumit",
+  "country": "Israel"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35c2"
+  },
+  "name": "Primera División",
+  "country": "Costa-Rica"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35db"
+  },
+  "name": "1. Deild",
+  "country": "Iceland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35e0"
+  },
+  "name": "Liga MX",
+  "country": "Mexico"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35e1"
+  },
+  "name": "Liga de Expansión MX",
+  "country": "Mexico"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ff"
+  },
+  "name": "Championship",
+  "country": "Northern-Ireland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb360b"
+  },
+  "name": "Ekstraklasa",
+  "country": "Poland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3612"
+  },
+  "name": "1. Division",
+  "country": "Cyprus"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3626"
+  },
+  "name": "Premier League",
+  "country": "Belize"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3633"
+  },
+  "name": "Landesliga - Niederosterreich",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3638"
+  },
+  "name": "Landesliga - Vorarlbergliga",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3641"
+  },
+  "name": "Provincial - Namur",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3660"
+  },
+  "name": "Youth Championship",
+  "country": "Russia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3665"
+  },
+  "name": "Regionalliga - West",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3677"
+  },
+  "name": "Tercera División RFEF - Group 5",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb367a"
+  },
+  "name": "Tercera División RFEF - Group 8",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb367b"
+  },
+  "name": "Tercera División RFEF - Group 9",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb368d"
+  },
+  "name": "National 3 - Group E",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3697"
+  },
+  "name": "Frauenliga",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36a3"
+  },
+  "name": "Pacific Coast Soccer League",
+  "country": "Canada"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36a4"
+  },
+  "name": "New South Wales NPL",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ba"
+  },
+  "name": "1. Liga Classic - Group 2",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36c0"
+  },
+  "name": "NB III - Nyugati",
+  "country": "Hungary"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36d3"
+  },
+  "name": "Sul-Matogrossense",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36d9"
+  },
+  "name": "Matogrossense",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ed"
+  },
+  "name": "Premier Division",
+  "country": "Gibraltar"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3704"
+  },
+  "name": "Liga III - Serie 7",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3707"
+  },
+  "name": "Liga III - Serie 10",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3717"
+  },
+  "name": "3. liga - West",
+  "country": "Slovakia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3720"
+  },
+  "name": "Second League - Group 4",
+  "country": "Russia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb374d"
+  },
+  "name": "Oberliga - Mittelrhein",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb375a"
+  },
+  "name": "Segunda División RFEF - Group 3",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb375f"
+  },
+  "name": "Second League - Group B",
+  "country": "Egypt"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3762"
+  },
+  "name": "Queensland Premier League",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3764"
+  },
+  "name": "New South Wales NPL 2",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3766"
+  },
+  "name": "Somali Premier League",
+  "country": "Somalia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3776"
+  },
+  "name": "League Two",
+  "country": "China"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb350e"
+  },
+  "name": "1st Division",
+  "country": "Albania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb350f"
+  },
+  "name": "Superliga",
+  "country": "Albania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb351c"
+  },
+  "name": "Süper Lig",
+  "country": "Turkey"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3535"
+  },
+  "name": "2nd Division - Group B",
+  "country": "Albania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3540"
+  },
+  "name": "2. Liga",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb356c"
+  },
+  "name": "Thai League 2",
+  "country": "Thailand"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3575"
+  },
+  "name": "Liga Pro Serie B",
+  "country": "Ecuador"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb359a"
+  },
+  "name": "Denmark Series - Group 4",
+  "country": "Denmark"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb359e"
+  },
+  "name": "1st League - RS",
+  "country": "Bosnia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35a1"
+  },
+  "name": "Liga Alef",
+  "country": "Israel"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35a2"
+  },
+  "name": "2. liga",
+  "country": "Slovakia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ab"
+  },
+  "name": "Challenge League",
+  "country": "Malta"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35c3"
+  },
+  "name": "Úrvalsdeild",
+  "country": "Iceland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ef"
+  },
+  "name": "K League 1",
+  "country": "South-Korea"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35f1"
+  },
+  "name": "Pro League",
+  "country": "Saudi-Arabia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35f9"
+  },
+  "name": "Division 2 - Södra Svealand",
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35fd"
+  },
+  "name": "Second League",
+  "country": "Macedonia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3610"
+  },
+  "name": "Primera B",
+  "country": "Chile"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb361d"
+  },
+  "name": "Second League",
+  "country": "Montenegro"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3621"
+  },
+  "name": "1. SNL",
+  "country": "Slovenia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3627"
+  },
+  "name": "Serie C - Girone C",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb362f"
+  },
+  "name": "Third League - Southwest",
+  "country": "Bulgaria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3640"
+  },
+  "name": "Provincial - Luxembourg",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb364c"
+  },
+  "name": "3. liga - MSFL",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3657"
+  },
+  "name": "Non League Div One - Northern Midlands",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb365e"
+  },
+  "name": "Derde Divisie - Sunday",
+  "country": "Netherlands"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3691"
+  },
+  "name": "National 3 - Group J",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36c9"
+  },
+  "name": "Maranhense",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36cb"
+  },
+  "name": "Brasiliense",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36dc"
+  },
+  "name": "V.League 2",
+  "country": "Vietnam"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36e0"
+  },
+  "name": "Paulista - A1",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36f0"
+  },
+  "name": "Premier League",
+  "country": "Mauritania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36f9"
+  },
+  "name": "3. Division - Girone 6",
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3701"
+  },
+  "name": "Liga III - Serie 4",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3726"
+  },
+  "name": "U21 Divisie 1",
+  "country": "Netherlands"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb372c"
+  },
+  "name": "Campeonato de Portugal Prio - Group H",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3732"
+  },
+  "name": "Third Amateur Division - ACFF B",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3735"
+  },
+  "name": "Gamma Ethniki - Group 9",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3737"
+  },
+  "name": "U18 Premier League - North",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3777"
+  },
+  "name": "Non League Premier - Southern Central",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb377e"
+  },
+  "name": "Primera Division",
+  "country": "Cuba"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb350b"
+  },
+  "name": "Premiership",
+  "country": "Scotland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3543"
+  },
+  "name": "Premyer Liqa",
+  "country": "Azerbaidjan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3546"
+  },
+  "name": "Regionalliga - West",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3547"
+  },
+  "name": "Premier League",
+  "country": "Wales"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3550"
+  },
+  "name": "1. Division",
+  "country": "Denmark"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3552"
+  },
+  "name": "Denmark Series - Group 2",
+  "country": "Denmark"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3561"
+  },
+  "name": "Eerste Divisie",
+  "country": "Surinam"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3564"
+  },
+  "name": "Serie D",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb356a"
+  },
+  "name": "Super League",
+  "country": "Uzbekistan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb356e"
+  },
+  "name": "Meistaradeildin",
+  "country": "Faroe-Islands"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb357a"
+  },
+  "name": "Premier League",
+  "country": "Belarus"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb357b"
+  },
+  "name": "1. Division",
+  "country": "Belarus"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb358e"
+  },
+  "name": "Erovnuli Liga",
+  "country": "Georgia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb358f"
+  },
+  "name": "Ligue 1",
+  "country": "Guinea"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3592"
+  },
+  "name": "League One",
+  "country": "Scotland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb359b"
+  },
+  "name": "Ettan - Norra",
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb359d"
+  },
+  "name": "Premier League",
+  "country": "Kyrgyzstan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ae"
+  },
+  "name": "Primera Division",
+  "country": "Nicaragua"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35bd"
+  },
+  "name": "Serie B",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35bf"
+  },
+  "name": "Eerste Divisie",
+  "country": "Netherlands"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35c1"
+  },
+  "name": "Allsvenskan",
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ea"
+  },
+  "name": "Prva Liga",
+  "country": "Serbia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ee"
+  },
+  "name": "Azadegan League",
+  "country": "Iran"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35f5"
+  },
+  "name": "2. Deild",
+  "country": "Iceland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35f7"
+  },
+  "name": "Division 2 - Norra Svealand",
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3604"
+  },
+  "name": "Tweede Divisie",
+  "country": "Netherlands"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3605"
+  },
+  "name": "1. Liga Promotion",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb360e"
+  },
+  "name": "FAW Championship",
+  "country": "Wales"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb362b"
+  },
+  "name": "Third Amateur Division - VFV B",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb362d"
+  },
+  "name": "Third League - Northwest",
+  "country": "Bulgaria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3655"
+  },
+  "name": "Non League Div One - Isthmian South Central",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3664"
+  },
+  "name": "Regionalliga - SudWest",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3675"
+  },
+  "name": "Tercera División RFEF - Group 3",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3695"
+  },
+  "name": "2. Division - Group 1",
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb369c"
+  },
+  "name": "Reserve Pro League",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36b1"
+  },
+  "name": "Gamma Ethniki - Group 2",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36b4"
+  },
+  "name": "Gamma Ethniki - Group 5",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36b7"
+  },
+  "name": "Gamma Ethniki - Group 8",
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36b8"
+  },
+  "name": "A Division",
+  "country": "Nepal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36b9"
+  },
+  "name": "1. Liga Classic - Group 1",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36be"
+  },
+  "name": "Carioca - 2",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36e1"
+  },
+  "name": "Paulista - A2",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ea"
+  },
+  "name": "Oberliga - Baden-Württemberg",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36fd"
+  },
+  "name": "III Liga - Group 4",
+  "country": "Poland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb373c"
+  },
+  "name": "Professional Development League",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb374b"
+  },
+  "name": "Oberliga - Schleswig-Holstein",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3755"
+  },
+  "name": "Premier League",
+  "country": "Pakistan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb376d"
+  },
+  "name": "National League - Central",
+  "country": "New-Zealand"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3775"
+  },
+  "name": "League 1 Ontario",
+  "country": "Canada"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb377f"
+  },
+  "name": "Primeira Divisão",
+  "country": "Macao"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3527"
+  },
+  "name": "Premier League",
+  "country": "Egypt"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb352d"
+  },
+  "name": "Division d'Honneur",
+  "country": "Guadeloupe"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3532"
+  },
+  "name": "2. Bundesliga",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3536"
+  },
+  "name": "1a Divisió",
+  "country": "Andorra"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3541"
+  },
+  "name": "Bundesliga",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3555"
+  },
+  "name": "HKFA 1st Division",
+  "country": "Hong-Kong"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3568"
+  },
+  "name": "Primera División - Apertura",
+  "country": "Uruguay"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb356f"
+  },
+  "name": "Ykkönen",
+  "country": "Finland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb357f"
+  },
+  "name": "J1 League",
+  "country": "Japan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb358a"
+  },
+  "name": "Serie C",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ac"
+  },
+  "name": "Premier League",
+  "country": "Malta"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ba"
+  },
+  "name": "Premier League",
+  "country": "Botswana"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35c6"
+  },
+  "name": "Super League",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35da"
+  },
+  "name": "First League",
+  "country": "Russia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3601"
+  },
+  "name": "Division 1",
+  "country": "Kuwait"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb360c"
+  },
+  "name": "First League",
+  "country": "Bulgaria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3623"
+  },
+  "name": "Super League",
+  "country": "Malawi"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb363c"
+  },
+  "name": "Provincial - Brabant VFV",
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb364a"
+  },
+  "name": "Third NL - Zapad",
+  "country": "Croatia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3669"
+  },
+  "name": "Serie D - Girone D",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb367f"
+  },
+  "name": "Tercera División RFEF - Group 13",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb368f"
+  },
+  "name": "National 3 - Group H",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ce"
+  },
+  "name": "Rondoniense",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36da"
+  },
+  "name": "Tocantinense",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb370a"
+  },
+  "name": "2. Liga Interregional - Group 1",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb372e"
+  },
+  "name": "4. liga - Divizie F",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3747"
+  },
+  "name": "Football League - Lowland League",
+  "country": "Scotland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3753"
+  },
+  "name": "3. Division",
+  "country": "Denmark"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb376b"
+  },
+  "name": "Second NL",
+  "country": "Croatia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3778"
+  },
+  "name": "Non League Div One - Northern East",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb352e"
+  },
+  "name": "Liga Nacional",
+  "country": "Guatemala"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3539"
+  },
+  "name": "Primera Nacional",
+  "country": "Argentina"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3544"
+  },
+  "name": "Regionalliga - Mitte",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3551"
+  },
+  "name": "Denmark Series - Group 1",
+  "country": "Denmark"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb357d"
+  },
+  "name": "Super League",
+  "country": "Zambia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb357e"
+  },
+  "name": "V.League 1",
+  "country": "Vietnam"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35a9"
+  },
+  "name": "Ligat Ha'al",
+  "country": "Israel"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35af"
+  },
+  "name": "NPFL",
+  "country": "Nigeria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35b8"
+  },
+  "name": "Premier League",
+  "country": "Bermuda"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35cf"
+  },
+  "name": "Primera B",
+  "country": "Colombia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35d1"
+  },
+  "name": "Serie C - Girone A",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35e5"
+  },
+  "name": "Primera División",
+  "country": "Peru"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35e7"
+  },
+  "name": "Liga I",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35f4"
+  },
+  "name": "Division Profesional - Clausura",
+  "country": "Paraguay"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb361f"
+  },
+  "name": "USL League Two",
+  "country": "USA"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3637"
+  },
+  "name": "Landesliga - Tirol",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3670"
+  },
+  "name": "Primera División RFEF - Group 2",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb367c"
+  },
+  "name": "Tercera División RFEF - Group 10",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ae"
+  },
+  "name": "Srpska Liga - East",
+  "country": "Serbia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36c6"
+  },
+  "name": "Paulista - A3",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36de"
+  },
+  "name": "Reserve League",
+  "country": "Belarus"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ee"
+  },
+  "name": "Liga Mayor",
+  "country": "Dominican-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36f1"
+  },
+  "name": "Mauritian League",
+  "country": "Mauritius"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36f3"
+  },
+  "name": "PFL",
+  "country": "Philippines"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3706"
+  },
+  "name": "Liga III - Serie 9",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3709"
+  },
+  "name": "3. SNL - West",
+  "country": "Slovenia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb373d"
+  },
+  "name": "Campionato Primavera - 1",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3748"
+  },
+  "name": "I Liga - Women",
+  "country": "Slovakia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3754"
+  },
+  "name": "Liga 3",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3756"
+  },
+  "name": "Premier League",
+  "country": "Crimea"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3770"
+  },
+  "name": "National League - Southern",
+  "country": "New-Zealand"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3772"
+  },
+  "name": "Championnat D1",
+  "country": "Gabon"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb350a"
+  },
+  "name": "La Liga",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb351d"
+  },
+  "name": "1. Lig",
+  "country": "Turkey"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb352b"
+  },
+  "name": "Erovnuli Liga 2",
+  "country": "Georgia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb352f"
+  },
+  "name": "Primera Division",
+  "country": "Guatemala"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb353c"
+  },
+  "name": "Torneo Federal A",
+  "country": "Argentina"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3556"
+  },
+  "name": "Premier League",
+  "country": "Hong-Kong"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb355a"
+  },
+  "name": "National Division",
+  "country": "Luxembourg"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3572"
+  },
+  "name": "Kakkonen - Lohko B",
+  "country": "Finland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3573"
+  },
+  "name": "Kakkonen - Lohko C",
+  "country": "Finland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb358b"
+  },
+  "name": "Division di Honor",
+  "country": "Aruba"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35a3"
+  },
+  "name": "Amapaense",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35a5"
+  },
+  "name": "Premier League",
+  "country": "Singapore"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35bb"
+  },
+  "name": "Premier League",
+  "country": "Bangladesh"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35c7"
+  },
+  "name": "HNL",
+  "country": "Croatia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35ce"
+  },
+  "name": "Capital Territory NPL",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35d6"
+  },
+  "name": "Serie A Women",
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35d8"
+  },
+  "name": "Primera División Femenina",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35dc"
+  },
+  "name": "Division Intermedia",
+  "country": "Paraguay"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35f6"
+  },
+  "name": "Division 2 - Norra Götaland",
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3602"
+  },
+  "name": "Premier League",
+  "country": "Syria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3636"
+  },
+  "name": "Landesliga - Steiermark",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3639"
+  },
+  "name": "Landesliga - Wien",
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb364d"
+  },
+  "name": "4. liga - Divizie A",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3651"
+  },
+  "name": "4. liga - Divizie E",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3692"
+  },
+  "name": "National 3 - Group K",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3693"
+  },
+  "name": "National 3 - Group L",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb369b"
+  },
+  "name": "U21 League 1",
+  "country": "Algeria"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36a2"
+  },
+  "name": "NWSL Women",
+  "country": "USA"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36a9"
+  },
+  "name": "First Division",
+  "country": "Ireland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36c1"
+  },
+  "name": "NB III - Közép",
+  "country": "Hungary"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36c2"
+  },
+  "name": "Kvindeliga",
+  "country": "Denmark"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36d0"
+  },
+  "name": "Mineiro - 2",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36d1"
+  },
+  "name": "Piauiense",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36dd"
+  },
+  "name": "Kansallinen Liiga",
+  "country": "Finland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3700"
+  },
+  "name": "Liga III - Serie 3",
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3708"
+  },
+  "name": "3. SNL - East",
+  "country": "Slovenia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3716"
+  },
+  "name": "3. liga - Bratislava",
+  "country": "Slovakia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3765"
+  },
+  "name": "Victoria NPL 2",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb376a"
+  },
+  "name": "U20 League",
+  "country": "Mexico"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3502"
+  },
+  "name": "Ligue 1",
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3506"
+  },
+  "name": "Bundesliga",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3521"
+  },
+  "name": "3. Lig - Group 3",
+  "country": "Turkey"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb353e"
+  },
+  "name": "Brisbane Premier League",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3548"
+  },
+  "name": "Primera División",
+  "country": "Venezuela"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb354c"
+  },
+  "name": "League",
+  "country": "Jordan"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3560"
+  },
+  "name": "League Two",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3567"
+  },
+  "name": "Major League Soccer",
+  "country": "USA"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3570"
+  },
+  "name": "Veikkausliiga",
+  "country": "Finland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3588"
+  },
+  "name": "A Lyga",
+  "country": "Lithuania"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3594"
+  },
+  "name": "USL Championship",
+  "country": "USA"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35a6"
+  },
+  "name": "Premijer Liga",
+  "country": "Bosnia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35aa"
+  },
+  "name": "Ligue 1",
+  "country": "Ivory-Coast"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35b4"
+  },
+  "name": "Elite One",
+  "country": "Cameroon"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35d3"
+  },
+  "name": "Brasileiro Women",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35d4"
+  },
+  "name": "FA WSL",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35d5"
+  },
+  "name": "Frauen Bundesliga",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35e6"
+  },
+  "name": "Segunda División",
+  "country": "Peru"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb35fe"
+  },
+  "name": "Premier Intermediate League",
+  "country": "Northern-Ireland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3611"
+  },
+  "name": "Super League",
+  "country": "Kenya"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3654"
+  },
+  "name": "Non League Div One - Isthmian North",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb365a"
+  },
+  "name": "Non League Premier - Isthmian",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb365b"
+  },
+  "name": "Non League Premier - Northern",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb365c"
+  },
+  "name": "Non League Premier - Southern South",
+  "country": "England"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb366f"
+  },
+  "name": "Primera División RFEF - Group 1",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3671"
+  },
+  "name": "Primera División RFEF - Group 3",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3673"
+  },
+  "name": "Tercera División RFEF - Group 1",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3685"
+  },
+  "name": "Campeonato de Portugal Prio - Group A",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb369f"
+  },
+  "name": "Liga 1",
+  "country": "Moldova"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36a5"
+  },
+  "name": "South Australia NPL",
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36a8"
+  },
+  "name": "Premier Division",
+  "country": "Ireland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36aa"
+  },
+  "name": "Curaçao Sekshon Pagá",
+  "country": "Curacao"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ab"
+  },
+  "name": "Superliga",
+  "country": "Kosovo"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ac"
+  },
+  "name": "Srpska Liga - Belgrade",
+  "country": "Serbia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ad"
+  },
+  "name": "Srpska Liga - Vojvodina",
+  "country": "Serbia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36e2"
+  },
+  "name": "Gaúcho - 1",
+  "country": "Brazil"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36e5"
+  },
+  "name": "Iraqi League",
+  "country": "Iraq"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36eb"
+  },
+  "name": "Oberliga - Nordost-Nord",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb36ef"
+  },
+  "name": "LFA First Division",
+  "country": "Liberia"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb370e"
+  },
+  "name": "2. Liga Interregional - Group 5",
+  "country": "Switzerland"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3710"
+  },
+  "name": "Elite Two",
+  "country": "Cameroon"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3715"
+  },
+  "name": "Premier League",
+  "country": "Eswatini"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3723"
+  },
+  "name": "1. Liga Women",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3725"
+  },
+  "name": "Liga MX Femenil",
+  "country": "Mexico"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3728"
+  },
+  "name": "U21 League",
+  "country": "Ukraine"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb372d"
+  },
+  "name": "3. liga - CFL B",
+  "country": "Czech-Republic"
+},{
+  "_id": {
+    "$oid": "642d773e5dc172f577cb3774"
+  },
+  "name": "1. Division Women",
+  "country": "Norway"
+}]

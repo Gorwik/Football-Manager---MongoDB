@@ -1,0 +1,87 @@
+{
+  $jsonSchema: {
+    bsonType: 'object',
+    required: [
+      'name',
+      'country'
+    ],
+    properties: {
+      name: {
+        bsonType: 'string',
+        description: 'object contains name of the club'
+      },
+      country: {
+        bsonType: 'string',
+        description: 'field contains name of the country and is requierd'
+      },
+      seasons: {
+        bsonType: 'array',
+        description: 'object contains club stats for each season',
+        items: {
+          bsonType: 'object',
+          required: [
+            'season',
+            'league',
+            'points',
+            'coach',
+            'players'
+          ],
+          properties: {
+            season: {
+              bsonType: 'int',
+              minimum: 1900,
+              description: 'object contains season e.g. int == 2000 stands for season 2000/2001 and is required'
+            },
+            league: {
+              bsonType: [
+                'objectId',
+                'string'
+              ],
+              description: 'object contains id of the league'
+            },
+            points: {
+              bsonType: 'int',
+              minimum: 0,
+              description: 'object contains points number in the leauge as int'
+            },
+            coach: {
+              bsonType: 'string',
+              description: 'field contains coach\'s name'
+            },
+            won_titles: {
+              bsonType: 'int',
+              minimum: 0,
+              description: 'object contains won titles as int'
+            },
+            players: {
+              bsonType: 'object',
+              description: 'object contains all players of the team',
+              properties: {
+                head: {
+                  bsonType: 'array',
+                  description: 'array of main players\' ids',
+                  items: {
+                    bsonType: [
+                      'objectId',
+                      'string'
+                    ]
+                  }
+                },
+                substitute: {
+                  bsonType: 'array',
+                  description: 'array of reserve players\' ids',
+                  items: {
+                    bsonType: [
+                      'objectId',
+                      'string'
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

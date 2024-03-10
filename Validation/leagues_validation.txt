@@ -1,0 +1,19 @@
+{
+  $jsonSchema: {
+    bsonType: 'object',
+    required: [
+      'name',
+      'country'
+    ],
+    properties: {
+      name: {
+        bsonType: 'string',
+        description: 'field contains name of the league'
+      },
+      country: {
+        bsonType: 'string',
+        description: 'field contains name of the league\'s country'
+      }
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  $jsonSchema: {
+    bsonType: 'object',
+    required: [
+      'first_name',
+      'last_name',
+      'date_of_birth',
+      'country'
+    ],
+    properties: {
+      first_name: {
+        bsonType: 'string',
+        description: 'must be a string and is required'
+      },
+      last_name: {
+        bsonType: 'string',
+        description: 'must be a string and is required'
+      },
+      date_of_birth: {
+        bsonType: 'date',
+        description: 'must be a date and is required'
+      },
+      country: {
+        bsonType: 'string',
+        description: 'must be a string and is required'
+      },
+      club: {
+        bsonType: [
+          'objectId'
+        ],
+        description: 'must be an objectId or string and is required'
+      },
+      height: {
+        bsonType: 'int',
+        minimum: 0,
+        maximum: 300,
+        description: 'must be an int if the field exists'
+      },
+      weight: {
+        bsonType: 'int',
+        minimum: 0,
+        maximum: 150,
+        description: 'must be an int if the field exists'
+      },
+      pref_pos: {
+        'enum': [
+          'RW',
+          'LCM',
+          'LS',
+          'LCB',
+          'ST',
+          'GK',
+          'RS',
+          'CDM',
+          'SUB',
+          'RCB',
+          'LB',
+          'LDM',
+          'CAM',
+          'RAM',
+          'LW',
+          'LAM',
+          'CM',
+          'RM',
+          'LM',
+          'RES',
+          'RB',
+          'RDM',
+          'RCM',
+          'LWB',
+          'LF',
+          'CB',
+          'RWB',
+          'RF',
+          'CF'
+        ],
+        description: 'can only be one of the enum values if the field exists'
+      },
+      value: {
+        bsonType: 'int',
+        minimum: 0,
+        description: 'must be an int if the field exists'
+      },
+      wage: {
+        bsonType: 'int',
+        minimum: 0,
+        description: 'must be an int if the field exists'
+      },
+      pref_foot: {
+        'enum': [
+          'Left',
+          'Right'
+        ],
+        description: 'can only be one of the enum values if the field exists'
+      },
+      overall: {
+        bsonType: 'int',
+        minimum: 0,
+        maximum: 100,
+        description: 'must be an int if the field exists'
+      },
+      stats: {
+        bsonType: 'array',
+        description: 'array contains club statistics for each season separately if field exist',
+        items: {
+          bsonType: [
+            'object',
+            'null'
+          ],
+          required: [
+            'season',
+            'club_team'
+          ],
+          properties: {
+            season: {
+              bsonType: 'int',
+              description: 'object contains season e.g. int == 2000 stands for season 2000/2001 and is required'
+            },
+            club_team: {
+              bsonType: [
+                'objectId'
+              ],
+              description: 'objectId or string contains club team and is required'
+            },
+            goals: {
+              bsonType: 'int',
+              minimum: 0,
+              description: 'object contains goals as an int if field exist'
+            },
+            assists: {
+              bsonType: 'int',
+              minimum: 0,
+              description: 'object contains assists as an int if field exist'
+            },
+            min_on_a_pitch: {
+              bsonType: 'int',
+              minimum: 0,
+              description: 'object contains minutes on a pitch as an int if field exist'
+            },
+            yellow_cards: {
+              bsonType: 'int',
+              minimum: 0,
+              description: 'object contains yellow cards as an int if field exist'
+            },
+            red_cards: {
+              bsonType: 'int',
+              minimum: 0,
+              description: 'object contains red cards as an int if field exist'
+            },
+            kit_number: {
+              bsonType: 'int',
+              minimum: 0,
+              maximum: 100,
+              description: 'object contains kit number as an int if field exist'
+            }
+          }
+        }
+      }
+    }
+  }
+}
